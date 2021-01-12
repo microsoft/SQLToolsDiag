@@ -1,0 +1,2 @@
+# -SQLToolsDiag
+ SQLToolsDiag
